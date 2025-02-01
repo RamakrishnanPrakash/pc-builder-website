@@ -27,7 +27,7 @@ import asus from "./asuspc.jpg";
 import corspc from "./corsapc.jpg";
 import gaming from "./gamingpc.jpg";
 import gaming1 from "./gamingpc1.jpg";
-import officepc from "./officepc.jpg";
+import officepc from "./officepc.jfif";
 import review_icon from "./review.png";
 import dot_icon from "./dot.png";
 
