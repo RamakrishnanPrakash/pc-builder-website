@@ -55,7 +55,6 @@ export const assets = {
   leftarrow_icon,
   rightarrow_icon,
   dot_icon,
-  video,
   gif,
   whitepc,
   adhi,
