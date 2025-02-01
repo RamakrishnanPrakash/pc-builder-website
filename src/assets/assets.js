@@ -37,8 +37,6 @@ import harddisk from "./harddisk.jfif";
 import motherboard from "./motherboard.jfif";
 import case1 from "./case.jfif";
 import ram from "./ram.jpg";
-
-import video from "./video.mp4";
 import gif from "./video.gif";
 export const assets = {
   logo_img,
